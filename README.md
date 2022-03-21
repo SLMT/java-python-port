@@ -43,7 +43,7 @@ Here is the result of a test running on the following environment:
 - Java: 1.8.0_302
 - Python: 3.7.11
 
-The average latency for each method is:
+After running each method in a test with 1,000,000 message exchanges, we got the following result:
 
 | Methods      | Sub-process | TCP Connection |
 |--------------|-------------|----------------|
