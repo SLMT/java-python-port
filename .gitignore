@@ -1,0 +1,13 @@
+# Eclipse
+.settings
+
+# Java
+target
+error.txt
+
+# Python
+.mypy_cache
+.vscode
+
+# MacOS
+.DS_Store
